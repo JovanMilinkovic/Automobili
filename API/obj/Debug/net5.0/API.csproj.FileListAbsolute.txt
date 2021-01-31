@@ -1,0 +1,178 @@
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\appsettings.json
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\API.exe
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\API.deps.json
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\API.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\API.pdb
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\Application.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\Domain.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\Persistence.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\Application.pdb
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\Domain.pdb
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\Persistence.pdb
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\obj\Debug\net5.0\API.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\obj\Debug\net5.0\API.pdb
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\MediatR.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.Owin.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.Owin.Security.Cookies.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.Owin.Security.OAuth.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Owin.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\api\bin\Debug\net5.0\Infrastructure.pdb
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\appsettings.Development.json
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\appsettings.json
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\API.exe
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\API.deps.json
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\API.runtimeconfig.json
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\API.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\ref\API.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\API.pdb
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\AutoMapper.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Humanizer.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\MediatR.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.AspNet.Identity.Owin.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.Owin.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.Owin.Security.Cookies.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Microsoft.Owin.Security.OAuth.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Owin.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Application.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Domain.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Infrastructure.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Persistence.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Application.pdb
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Infrastructure.pdb
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Domain.pdb
+C:\xampp\htdocs\VezbanjeProjekat\api\bin\Debug\net5.0\Persistence.pdb
+C:\xampp\htdocs\VezbanjeProjekat\api\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+C:\xampp\htdocs\VezbanjeProjekat\api\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\VezbanjeProjekat\api\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\xampp\htdocs\VezbanjeProjekat\api\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\xampp\htdocs\VezbanjeProjekat\api\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\VezbanjeProjekat\api\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\xampp\htdocs\VezbanjeProjekat\api\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\xampp\htdocs\VezbanjeProjekat\api\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\xampp\htdocs\VezbanjeProjekat\api\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\xampp\htdocs\VezbanjeProjekat\api\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\xampp\htdocs\VezbanjeProjekat\api\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\xampp\htdocs\VezbanjeProjekat\api\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\xampp\htdocs\VezbanjeProjekat\api\obj\Debug\net5.0\API.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\obj\Debug\net5.0\ref\API.dll
+C:\xampp\htdocs\VezbanjeProjekat\api\obj\Debug\net5.0\API.pdb
+C:\xampp\htdocs\VezbanjeProjekat\api\obj\Debug\net5.0\API.genruntimeconfig.cache

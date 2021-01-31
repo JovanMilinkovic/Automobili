@@ -1,0 +1,24 @@
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Domain\obj\Debug\net5.0\Domain.pdb
+C:\xampp\htdocs\VezbanjeProjekat\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\xampp\htdocs\VezbanjeProjekat\Domain\bin\Debug\net5.0\Domain.dll
+C:\xampp\htdocs\VezbanjeProjekat\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\xampp\htdocs\VezbanjeProjekat\Domain\bin\Debug\net5.0\Domain.pdb
+C:\xampp\htdocs\VezbanjeProjekat\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\xampp\htdocs\VezbanjeProjekat\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\VezbanjeProjekat\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\xampp\htdocs\VezbanjeProjekat\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\xampp\htdocs\VezbanjeProjekat\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\VezbanjeProjekat\Domain\obj\Debug\net5.0\Domain.dll
+C:\xampp\htdocs\VezbanjeProjekat\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\xampp\htdocs\VezbanjeProjekat\Domain\obj\Debug\net5.0\Domain.pdb

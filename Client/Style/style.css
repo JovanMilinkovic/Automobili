@@ -1,0 +1,68 @@
+html, body {
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+    text-align: center;
+}
+body{
+    background-image: url("../Images/audi.jpg");
+}
+button {
+  border: none;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+  border-radius: 12px;
+  border: 2px solid black;
+}
+.dodaj {
+    background-color: whitesmoke;
+}
+
+.dodaj:hover {
+  background-color: green;
+  color: white;
+}
+.brisi {
+    background-color:whitesmoke; 
+}
+.brisi:hover {
+    background-color: red;
+    color: white;
+}
+.unesiPodatke{
+    background-color: whitesmoke;
+}
+.unesiPodatke:hover {
+    background-color: blue;
+    color: white;
+}
+.forma{
+  padding: 1em;
+  background: #f9f9f9;
+  border: 1px solid #c1c1c1;
+  margin-top: 2rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1em;
+}
+.forma input {
+    margin-bottom: 1rem;
+    background: #fff;
+    border: 1px solid #9c9c9c;
+}
+input {
+    width: 100%;
+    padding: 0.7em;
+    margin-bottom: 0.5rem;
+}
+input:focus {
+    outline: 3px solid gold;
+}

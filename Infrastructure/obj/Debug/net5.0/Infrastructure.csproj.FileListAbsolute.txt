@@ -1,0 +1,38 @@
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Application.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Persistence.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Application.pdb
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Persistence.pdb
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Application.dll
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Persistence.dll
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Application.pdb
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\bin\Debug\net5.0\Persistence.pdb
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\xampp\htdocs\VezbanjeProjekat\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb

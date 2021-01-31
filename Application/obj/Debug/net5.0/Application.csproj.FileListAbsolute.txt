@@ -1,0 +1,34 @@
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Application\bin\Debug\net5.0\Application.deps.json
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Application\bin\Debug\net5.0\Application.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Application\bin\Debug\net5.0\ref\Application.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Application\bin\Debug\net5.0\Application.pdb
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Application\bin\Debug\net5.0\Domain.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Application\bin\Debug\net5.0\Persistence.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Application\bin\Debug\net5.0\Domain.pdb
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Application\bin\Debug\net5.0\Persistence.pdb
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Application\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Application\obj\Debug\net5.0\Application.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Application\obj\Debug\net5.0\ref\Application.dll
+C:\Users\chico\OneDrive\Desktop\Faculty\3. godina\V semestar\Web programiranje\VezbanjeProjekat\Application\obj\Debug\net5.0\Application.pdb
+C:\xampp\htdocs\VezbanjeProjekat\Application\bin\Debug\net5.0\Application.deps.json
+C:\xampp\htdocs\VezbanjeProjekat\Application\bin\Debug\net5.0\Application.dll
+C:\xampp\htdocs\VezbanjeProjekat\Application\bin\Debug\net5.0\ref\Application.dll
+C:\xampp\htdocs\VezbanjeProjekat\Application\bin\Debug\net5.0\Application.pdb
+C:\xampp\htdocs\VezbanjeProjekat\Application\bin\Debug\net5.0\Domain.dll
+C:\xampp\htdocs\VezbanjeProjekat\Application\bin\Debug\net5.0\Persistence.dll
+C:\xampp\htdocs\VezbanjeProjekat\Application\bin\Debug\net5.0\Domain.pdb
+C:\xampp\htdocs\VezbanjeProjekat\Application\bin\Debug\net5.0\Persistence.pdb
+C:\xampp\htdocs\VezbanjeProjekat\Application\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
+C:\xampp\htdocs\VezbanjeProjekat\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\VezbanjeProjekat\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\xampp\htdocs\VezbanjeProjekat\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\xampp\htdocs\VezbanjeProjekat\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\VezbanjeProjekat\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+C:\xampp\htdocs\VezbanjeProjekat\Application\obj\Debug\net5.0\Application.dll
+C:\xampp\htdocs\VezbanjeProjekat\Application\obj\Debug\net5.0\ref\Application.dll
+C:\xampp\htdocs\VezbanjeProjekat\Application\obj\Debug\net5.0\Application.pdb
