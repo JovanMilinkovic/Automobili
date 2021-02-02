@@ -3,66 +3,151 @@ html, body {
     height: 100vh;
     overflow-x: hidden;
     text-align: center;
+    font-family: arial, x-locale-body, sans-serif;
+    transition: 3s;
 }
-body{
-    background-image: url("../Images/audi.jpg");
+body {
+    background: url("../Images/pozadina.png") no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover; 
+}
+.naslovna {
+    color:white;
+    font-size: 35px;
+    transition: 1s;
+    display: block;
+}
+.naslovna:hover {
+    color: #c4292e;
+    transition: 1s;
 }
 button {
-  border: none;
-  color: black;
-  padding: 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-  transition-duration: 0.4s;
-  border-radius: 12px;
-  border: 2px solid black;
-}
-.dodaj {
-    background-color: whitesmoke;
-}
-
-.dodaj:hover {
-  background-color: green;
-  color: white;
-}
-.brisi {
-    background-color:whitesmoke; 
-}
-.brisi:hover {
-    background-color: red;
     color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 200px;
+    cursor: pointer;
+    transition-duration: 1s;
+    border-radius: 12px;
+    border: 2px solid #c4292e;
+    background-color: black;
 }
-.unesiPodatke{
-    background-color: whitesmoke;
+button:hover {
+    background-color: #c4292e;
+    color:white;
+    border: 2px solid white;
+    transition: 1s;
+    opacity: 90%;
 }
-.unesiPodatke:hover {
-    background-color: blue;
-    color: white;
+button:focus {
+    outline: none;
 }
-.forma{
+.forma {
   padding: 1em;
-  background: #f9f9f9;
+  background-color: black;
   border: 1px solid #c1c1c1;
   margin-top: 2rem;
-  max-width: 600px;
+  max-width: 400px;
   margin-left: auto;
   margin-right: auto;
+  max-height: 1000px;
   padding: 1em;
+  border-radius: 20px;
+  display: block;
+  opacity: 90%;
 }
-.forma input {
-    margin-bottom: 1rem;
-    background: #fff;
-    border: 1px solid #9c9c9c;
+.formaLogo {
+    width: 370px;
+    height: 200px;
+    opacity: 100%;
+}
+.formaTekst {
+    font-size: 18px;
+    color: white;
+    border: 1px solid black;
+    border-radius: 12px;
+    background-color: black;
+    opacity: 90%;
+}
+.slikaTekst{
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-size: 12px;
+    width: 300px;
+    border-radius: 12px;
+    display:block;
+    text-align: left;
+}
+.karoserijaTekst {
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-size: 12px;
+    width: 300px;
+    border-radius: 12px;
+    display:block;
+    text-align: left;
+}
+.kubikazaTekst {
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-size: 12px;
+    width: 300px;
+    border-radius: 12px;
+    display:block;
+    text-align: left;
+}
+.pogonTekst {
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-size: 12px;
+    width: 300px;
+    border-radius: 12px;
+    display:block;
+    text-align: left;
 }
 input {
-    width: 100%;
-    padding: 0.7em;
-    margin-bottom: 0.5rem;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #fff;
+    border: 1px solid #9c9c9c;
+    width: 300px;
+    border-radius: 12px;
+    display:block;
 }
 input:focus {
-    outline: 3px solid gold;
+    box-shadow: 0 0 3pt 2pt #c4292e;
+    outline: none;
+    transition: 0.4s;
+}
+.inputKaroserija {
+    box-shadow: 0 0 3pt 2pt #c4292e;
+    outline: none;
+    float: left;
+}
+.inputPogon {
+    float:left;
+}
+select{
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #fff;
+    border: 1px solid #9c9c9c;
+    width: 300px;
+    border-radius: 12px;
+    display:block;
 }

@@ -10,6 +10,7 @@ export class AutomobilView
 
     CrtajListuAutomobila() 
     {
+        //var blok = document.createElement("div");
         var img = document.createElement("img");
         img.src = this.objekat.slika;
         var imeModela = document.createElement("p");
@@ -34,5 +35,13 @@ export class AutomobilView
         this.osnova.appendChild(karoserije);
         this.osnova.appendChild(kubikaze);
         this.osnova.appendChild(oprema);
+        /*this.blok.appendChild(img);
+        this.blok.appendChild(imeModela);
+        this.blok.appendChild(cena);
+        this.blok.appendChild(kwks);
+        this.blok.appendChild(pogoni);
+        this.blok.appendChild(karoserije);
+        this.blok.appendChild(kubikaze);
+        this.blok.appendChild(oprema);*/
     }
 }
